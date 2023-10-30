@@ -10,7 +10,22 @@ My name is Matheus, but you can call me Phillip.
 
 ## Languages and tools:
 
-
+* Java
+* Python
+* C
+* Javascript
+* ReactJS
+* Selenium
+* Cypress
+* Cucumber
+* jUnit
+* Postman
+* Swagger
+* Mockoon
+* Docker
+* AWS
+* Jenkins
+* Jira
 
 ## Connect with me:
 
