@@ -6,8 +6,8 @@ My name is Matheus, but you can call me Phillip.
 
 * I'm brazilian
 * I speak Portuguese, English (C1), and Spanish (A1 - Currently learning) 
-* I'm currently working as a Junior Software QA at CESAR
-* I'm studying concepts of Clean Code, Algorithms and Data Structures
+* I'm currently working as a Junior Software QA Engineer at CESAR
+* I'm currently studying concepts of Clean Code, Algorithms, and Data Structures
 * I have professional experience with web projects, but I would love to work on virtual reality or augmented reality projects
 
 ## Languages and tools:
