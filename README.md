@@ -2,13 +2,13 @@
 # Hello there ✋
 My name is Matheus, but you can call me Phillip.
 
-## I'm have been a developer and QA for the last years and I would like you to know me better.
+## I have been working as a developer and QA for the last 3 years and I would like you to know me better.
 
 * I'm brazilian
 * I speak Portuguese, English (C1), and Spanish (A1 - Currently learning) 
 * I'm currently working as a Junior Software QA Engineer at CESAR
 * I'm currently studying concepts of Clean Code, Algorithms, and Data Structures
-* I have professional experience with web projects, but I would love to work on virtual reality or augmented reality projects
+* I have professional experience with web projects
 
 ## Languages and tools:
 
