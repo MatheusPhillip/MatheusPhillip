@@ -2,13 +2,12 @@
 # Hello there ✋
 My name is Matheus, but you can call me Phillip.
 
-## I have been working as a developer and QA for the last 3 years and I would like you to know me better.
+## I have been working as a software engineer for the last 6 years and I would like you to know me better.
 
 * I'm brazilian
-* I speak Portuguese, English (C1), and Spanish (A1 - Currently learning) 
-* I'm currently working as a Junior Software QA Engineer at CESAR
-* I'm currently studying concepts of Clean Code, Algorithms, and Data Structures
-* I have professional experience with web projects
+* I speak Portuguese, English (C1), Spanish, French (Currently learning) and japanese (Currently learning)
+* I'm currently working as a software engineer at Coforge
+* I have professional experience with web projects, APIs, backend and fullstack development
 
 ## Languages and tools:
 
@@ -25,6 +24,7 @@ My name is Matheus, but you can call me Phillip.
 * Swagger
 * Mockoon
 * Docker
+* k8s
 * AWS
 * Jenkins
 * Jira
